@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalhando como fullStack
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no email: izamarajordao@outlook.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/IzamaraJordao">
