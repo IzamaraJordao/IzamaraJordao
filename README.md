@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Izamara Jordão 👋
 
 
-- 🔭 Atualmente trabalhando como fullStack
+- 🔭 Atualmente trabalhando como FrontEnd
 - 🌱 Estudando C#
 - 📫 Contate-me no email: izamarajordao@outlook.com
 - 😄 Pronomes: ela/dela
